@@ -1,8 +1,14 @@
+
 ---
 title: "Ayooluwa Adu | MBA Portfolio"
-author: "Ayooluwa Adu"
-format: html
-editor: visual
+format:
+  html:
+    theme: cosmo  # Other options: journal, minty, flatly, simplex, darkly, etc.
+    toc: true     # Table of contents (optional)
+    smooth-scroll: true
+    css: styles.css  # For custom styling (optional)
+    code-fold: false
+    page-layout: full
 ---
 
 ## About Me
@@ -79,4 +85,10 @@ Learning new programming languages of value, watching tech driven movies, intern
 
 ---
 
+# ![](profile.jpg){width=150px}
 
+---
+
+```{=html}
+<!-- This section will be visible only if you host it correctly -->
+<p style="text-align:center; font-size: 0.9em; color: #aaa;">&copy; 2025 Ayooluwa Adu. All rights reserved.</p>
