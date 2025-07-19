@@ -1,0 +1,96 @@
+---
+title: "Ayooluwa Adu | MBA Portfolio"
+author: "Ayooluwa Adu"
+format: html
+editor: visual
+---
+
+## About Me
+
+I am a dedicated MBA student with a background in computer science and a strong interest in cloud computing, artificial intelligence, cybersecurity, and digital strategy. With several years of professional experience across technology and analytics roles, I bring a unique blend of technical insight and business acumen. My current focus is on integrating marketing principles with technological innovation to drive impactful solutions in dynamic business environments.
+
+---
+
+## Education
+
+- **Master of Business Administration (MBA)**  
+  *University Canada West, British Columbia*  
+  *Expected Completion: 2025*
+
+- **MSc Project Management with Advanced Practice**  
+  *Teesside University, UK* — *Distinction*
+
+- **MSc Computer Science**  
+  *University of Ibadan, Nigeria*
+
+- **B.Tech Computer Science**  
+  *Federal University of Technology, Akure*
+
+---
+
+## Experience Highlights
+
+- **Business Analyst** — *Avosoft, UK*  
+  Led backlog and sprint planning using Azure DevOps. Conducted stakeholder interviews, facilitated UAT, and improved workflows through SQL-based reporting.
+
+- **Software Developer** — *British Steel*  
+  Developed and maintained data pipelines using SSIS and SQL Server. Created reports via SSRS and Crystal Reports.
+
+- **IT Officer** — *Equitable Health Access Initiative*  
+  Designed database systems for NGO-driven health programs and supported data accuracy and performance tracking.
+
+---
+
+## Key Skills
+
+- **Cloud Platforms:** AWS (EC2, S3, Lambda, RDS)  
+- **Programming:** Python, PHP
+- **Data Analytics:** SQL, Tableau, Power BI, MS-Excel  
+- **Project Management:** Agile, Scrum, Jira  
+- **Marketing Insight:** Digital campaigns, brand positioning, audience analysis  
+- **Security:** Data protection, secure systems architecture  
+- **Soft Skills:** Team collaboration, stakeholder communication
+
+---
+
+## Projects / Achievements
+
+> - Analyzed HIV/AIDS data to identify critical gaps in pediatric care, diagnosed root causes for these gaps, and implemented targeted solutions. These efforts resulted in a measurable 30% increase in viral load suppression among pediatric patients, significantly improving treatment outcomes and program effectiveness.
+
+> - Refactored the existing system to optimize the structuring of beams shipments, resulting in reduced overhead and operational costs, and improving overall logistical efficiency.
+
+---
+
+## Career Goals
+
+In the near term, I am pursuing opportunities in strategy consulting or corporate development where I can apply my analytical expertise and leadership capabilities to deliver impactful solutions. My long-term aspiration is to advance into a senior leadership position, driving business growth, fostering innovation, and contributing to organizational excellence in a dynamic and competitive environment
+
+---
+
+## Interest
+Learning new programming languages of value, watching tech driven movies, international travel
+
+---
+
+## Contact
+
+📧 Email: samayoadu@yahoo.com  
+🔗 LinkedIn: [linkedin.com/in/samayoadu](#)
+
+---
+## Appendix – LLM Output and Commentary
+
+> **LLM Tool Used:** ChatGPT by OpenAI  
+> **Prompt:** "Create an outline and sample text for a one-page MBA student portfolio."  
+> 
+> **Revisions Summary:**
+> - Rewrote "Contact information" for authenticity and was moved to the bottom of the page to engage prospective employer to view the entire page content.
+> - Change and rewrote "Professional Summary to About Me" to reflect academic and professional identity, areas of interest, professional experience, unique value proposition and current focus and goals bearing in mind that prospective employer would love to know more about me other than professional experience only.
+> - Adjusted job roles and achievements to reflect actual experience.
+> - Simplified language for clarity.
+> - Preserved layout and structure for effective presentation.
+> - Professional Experience was changed to Experience Highlights as the content underneath it was just and highlights which was not comprehensive so as not to bore prospective employers with too much details, hence keep the page simple and concise
+---
+
+*To publish this portfolio, render to HTML and host via GitHub Pages or similar.*
+
